@@ -82,7 +82,6 @@ Patient-Readmission-Dashboard/
 - Interactive Slicers — Age and Gender filters
 
 ---
----
 
 ## Author
 **Rajintha Hewanayaka**
