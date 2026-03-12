@@ -3,9 +3,6 @@
 ## Overview
 Interactive Power BI dashboard analyzing diabetic patient readmission patterns across age groups, diagnoses and departments.
 
-## Dashboard Preview
-![Dashboard Preview](Screenshot 2026-03-12 092715.png)
-
 ## Dataset
 - **Source:** UCI Diabetic Readmission Dataset
 - **Records:** 101,766 patient records
