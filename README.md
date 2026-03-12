@@ -36,18 +36,19 @@ The analysis focuses on:
 
 ```
 Patient-Readmission-Dashboard/
-|
 |-- dataset/
 |   |-- diabetic_data.csv
 |   |-- IDS_mapping.csv
-|
-|-- sql/
-|   |-- analysis_queries.sql
-|
 |-- powerbi/
 |   |-- dashboard1.pbix
 |   |-- dashboard_preview.png
-|
+|-- sql/
+|   |-- SQLQuery1.sql
+|   |-- SQLQuery2.sql
+|   |-- SQLQuery3.sql
+|   |-- SQLQuery4.sql
+|   |-- SQLQuery5.sql
+|   |-- SQLQuery6.sql
 |-- README.md
 ```
 
