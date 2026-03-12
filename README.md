@@ -2,9 +2,6 @@
 
 Data-driven analysis of diabetic patient readmission patterns using SQL Server and Power BI.
 
-## Dashboard Preview
-![Dashboard Preview](powerbi/dashboard_preview.png)
-
 ---
 
 ## Project Overview
