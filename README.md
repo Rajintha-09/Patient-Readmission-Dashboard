@@ -82,14 +82,6 @@ Patient-Readmission-Dashboard/
 - Interactive Slicers — Age and Gender filters
 
 ---
-
-## How to Run
-1. Import `diabetic_data.csv` into SQL Server as `PatientReadmission` database
-2. Run `analysis_queries.sql` in SSMS in order from Step 1 to Step 6
-3. Open `dashboard1.pbix` in Power BI Desktop
-4. Connect to your SQL Server instance
-5. Refresh the data
-
 ---
 
 ## Author
